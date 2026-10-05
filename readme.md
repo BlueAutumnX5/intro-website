@@ -1,6 +1,10 @@
-# henryheffernan.com
+# SwiftPegasus.com
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+The 3D interactive website for <a href="https://swiftpegasus.com/"><samp>SwiftPegasus.com</samp></a>.
+
+## Credit
+
+This site is a fork of the wonderful 3D interactive portfolio created by **Henry Heffernan** ([henryheffernan.com](https://henryheffernan.com/), [original repo](https://github.com/henryjeff/portfolio-outer-site)). All credit for the design, 3D scene and code goes to him. See `LICENSE.md` for the original copyright notice.
 
 <br>
 
