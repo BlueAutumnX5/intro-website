@@ -31,3 +31,16 @@ npm run build
 # Serve the build using express
 npm start
 ```
+
+<br>
+
+## Changing the text painted on the 3D model
+
+The labels on the monitor, PC and keyboard, and the credits sheet on the wall, are painted into the model textures. To change them, edit `tools/textures.json` and run:
+
+```bash
+pip install pillow numpy
+python3 tools/customize-textures.py
+```
+
+The script always starts from the untouched textures in `tools/original-textures/`, so you can re-run it as often as you like.

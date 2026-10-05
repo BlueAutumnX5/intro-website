@@ -1,0 +1,58 @@
+{
+    "brand": "SwiftPegasus",
+    "company": "swiftpegasus.com",
+    "product": "SwiftPegasus Intro",
+    "description": "Making strangely specific computers since 2022. Built on a template by Henry Heffernan, remixed by SwiftPegasus.",
+    "model": "SP-2026",
+    "power": "100-240Vac",
+    "power_note": "0.3 A, 50-60 Hz",
+    "assembled": "Assembled on the internet",
+    "credits_title": "\"SwiftPegasus.com\"",
+    "credits_subtitle": "CREDITS",
+    "credits": [
+        {
+            "heading": "WEBSITE",
+            "rows": [
+                [
+                    "SwiftPegasus",
+                    "Content & Remix"
+                ]
+            ]
+        },
+        {
+            "heading": "ORIGINAL TEMPLATE",
+            "rows": [
+                [
+                    "Henry Heffernan",
+                    "Design & Code"
+                ]
+            ]
+        },
+        {
+            "heading": "MODELING",
+            "rows": [
+                [
+                    "Mickael Boitte",
+                    "Computer Model"
+                ],
+                [
+                    "Sean Nicolas",
+                    "Environment Models"
+                ]
+            ]
+        },
+        {
+            "heading": "SPECIAL THANKS",
+            "rows": [
+                [
+                    "Bruno Simon",
+                    "Inspiration"
+                ]
+            ]
+        }
+    ],
+    "credits_footer": [
+        "Thank you so much for",
+        "checking out my website"
+    ]
+}
